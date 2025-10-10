@@ -112,7 +112,7 @@
 
 | 客户端                    | 维护状态 | Windows | macOS | Linux | iOS | Android | 仓库 | 教程 |
 |------------------------|------|---------|-------|-------|-----|---------|----|----|
-| [Clash for Android]()      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份]() | [教程]() |
+| [Clash for Android](https://github.com/clashsir/Clash-for-Android)      | :red_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [备份](https://github.com/clashsir/Clash-for-Android/releases) | [教程](https://clashsir.com/clash-for-android/) |
 | [Clash for Windows]()      | :red_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :x:   | :x:       | [备份]() | [教程]() |
 | [Clash Meta for Android]() | :green_circle:    | :x:       | :x:     | :x:     | :x:   | :white_check_mark:       | [官方]() | [教程]() |
 | [Clash Mi]()               | :green_circle:    | :white_check_mark:       | :white_check_mark:     | :white_check_mark:     | :white_check_mark:   | :white_check_mark:       | [官方]() | [教程]() |
