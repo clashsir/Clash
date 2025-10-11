@@ -36,12 +36,12 @@
 
 ### :pushpin: Hiddify
 - **下载地址**：[GitHub Releases](https://github.com/hiddify/hiddify-app/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clashsir.com/hiddify/](https://clashsir.com/hiddify/)
 - **支持平台**：Windows、macOS、Linux、iOS、Android
 
 ### :pushpin: Clash Nyanpasu
 - **下载地址**：[GitHub Releases](https://github.com/LibNyanpasu/clash-nyanpasu/releases)
-- **使用教程**：[]()
+- **使用教程**：[https://clashsir.com/clash-nyanpasu/](https://clashsir.com/clash-nyanpasu/)
 - **支持平台**：Windows、macOS、Linux
 
 ---
