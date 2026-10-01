@@ -3,7 +3,7 @@
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/99fe55d3-ad1d-4ab0-a164-ddef7f3a1eaa" />
 
   </a>
-  <h1>Clash下载分享中文官网资源 (2026年9月更新)</h1>
+  <h1>Clash下载分享中文官网资源 (2026年10月更新)</h1>
   <p>
     <b>Clash全平台下载分享中文官网资源 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
   </p>
