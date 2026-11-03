@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clashsir/Clash" title="Clash下载分享中文官网资源">
+  <a href="https://github.com/clashsir/Clash" title="Clash 精选：最小可用客户端集">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/99fe55d3-ad1d-4ab0-a164-ddef7f3a1eaa" />
 
   </a>
-  <h1>Clash下载分享中文官网资源 (2026年11月更新)</h1>
+  <h1>Clash 精选：最小可用客户端集 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台下载分享中文官网资源 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>少而精的短评卡片，只保留维护中主力</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
