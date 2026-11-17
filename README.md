@@ -144,11 +144,3 @@
 本仓库仅汇总公开客户端、备份链接与教程入口，不提供翻墙服务，不保证第三方节点可用性或合法性。请遵守当地法律法规以及各应用商店、开源仓库的许可与使用条款。下载以官方 Releases / 商店页面为准；本页更新日期与星标图不代表任何客户端的发版承诺。
 
 ---
-
-## 如果您觉得本工具对您有帮助，不妨在左上角点亮一颗小星星，以示鼓励！
-
-<p align="center">
-  <a href="https://github.com/clashsir/Clash/tree/star-history">
-    <img alt="Star History Chart" src="https://raw.githubusercontent.com/clashsir/Clash/refs/heads/star-history/star-history.svg" />
-  </a>
-</p>
